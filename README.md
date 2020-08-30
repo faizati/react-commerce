@@ -1,6 +1,6 @@
-## Lesson-1
+## Lesson-5
 
-In this lesson, we are exploring how to use Create React App. We are leveraging it to help us bootstrap our application and handle the webpack configuration. 
+Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
 
 # How to fork and clone
 
