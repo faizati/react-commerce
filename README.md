@@ -1,6 +1,6 @@
-## Lesson-21
+## Lesson-23
 
-We also want to be able to update the quantity using buttons to the left and right of the number, so we will add the appropriate code to do so.
+We have now created our collection page and converted our shop items data over from an array to an object to better leverage our url parameters! Converting arrays over to objects to store data is called data-normalization and it makes searching for specific elements in our code much easier and efficient!
 
 # How to fork and clone
 
